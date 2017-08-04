@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.prohire:ProhireService:0.0.28-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/prohire/ProhireService/0.0.28-SNAPSHOT/ProhireService-0.0.28-20170802.151900-60.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/prohire/ProhireService/0.0.28-SNAPSHOT/ProhireService-0.0.28-20170802.151900-60-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/prohire/ProhireService/0.0.28-SNAPSHOT/ProhireService-0.0.28-20170802.151900-60-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
